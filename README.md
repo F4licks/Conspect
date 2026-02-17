@@ -6,4 +6,4 @@
 ----------------------------------------------------------------------------------------------------------------------------
 **Мат-Моделирования = https://drive.google.com/drive/folders/1FMd_y_CsSuTJijf4PIH-D3N8b3Y0RGXs?usp=sharing**
 ---------------------------------------------------------------------------------------------------------------------
-**Django = **
+**Django = https://docs.google.com/document/d/116wmB0mzNS7PvzScHUYzZYabioraI22iMpdST68Dcyo/edit?usp=sharing**
